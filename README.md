@@ -1,8 +1,5 @@
 # Rubicon
-Issue tracking and community feedback for Rubicon — automated trading platform for futures, crypto, and beyond.
-# Rubicon
-
-**Automated trading platform built for serious traders.**
+Issue tracking and community feedback for Rubicon — **Automated trading platform built for serious traders.**
 
 Rubicon is a desktop application that brings systematic, safety-first automated trading to futures, crypto, and an expanding range of markets. Built by traders, for traders — with the discipline of a prop firm and the flexibility of a personal trading desk.
 
